@@ -36,10 +36,10 @@
 
 ---
 
-## 🌟 Featured Projects  
-- 📰 **Intelligent News Buddy** – A fun news app that delivers headlines like a gossip buddy  
-- 🤖 **AI/ML Mini Projects** – Playing with models, NumPy, and OpenCV  
-- 🌐 **Full-Stack Demos** – Web apps built with HTML, CSS, JavaScript, and SQL  
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zae0o0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/anagha-c-11402b378" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:YOUR-EMAIL">
+  <a href="mailto:anaghacsreeragam@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
 </p>
