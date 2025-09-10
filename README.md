@@ -9,7 +9,6 @@
 - 🌱 Currently learning: **Advanced Python, Machine Learning, and Full-Stack Web Development**  
 - 💡 I can also code in **Java, C, HTML, CSS, JavaScript, and SQL**  
 - 🛠️ I enjoy experimenting with libraries & tools like **NumPy, Tkinter, and OpenCV**  
-- ⚡ Fun fact: My Python code is friendlier than I am before coffee.  
 
 ---
 
