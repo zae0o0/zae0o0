@@ -50,6 +50,9 @@
   <a href="mailto:anaghacsreeragam@gmail.com">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
+  <a href="https://zae0o0.github.io/my-portfolio/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40" />
+  </a>
 </p>
 
 ---
