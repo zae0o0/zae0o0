@@ -26,7 +26,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zae0o0&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
@@ -35,7 +35,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zae0o0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
